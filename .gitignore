@@ -1,0 +1,15 @@
+# Course data (do not commit)
+data/
+
+# Generated outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Misc
+_pdf_text.txt
