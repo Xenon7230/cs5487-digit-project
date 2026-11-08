@@ -4,6 +4,9 @@ data/
 # Generated outputs
 outputs/
 
+# Run logs
+*.log
+
 # Python
 __pycache__/
 *.py[cod]
