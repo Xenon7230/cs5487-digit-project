@@ -57,6 +57,9 @@ GroupProject/
     ├── README.md
     ├── requirements.txt
     ├── .gitignore
+    ├── docs/
+    │   ├── proposal.md                       # course project proposal (planning-tense)
+    │   └── project_summary.md                # internal summary: code, results, assessment
     ├── data/                                 # course data (gitignored)
     │   └── digits4000_txt/                   # the four TXT files from digits4000_txt.zip
     ├── digit_project/
